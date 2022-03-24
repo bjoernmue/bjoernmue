@@ -12,8 +12,8 @@ bjoernmue/bjoernmue is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-# 👋 Hi, I’m @bjoernmue
+# 👋 Hi, I’m Bjoern
 Citrix Technology Advocate (CTA) and EUC Consultant
 
 # 📫 How to reach me ...
-https://twitter.com/bjoernmue
+[Twitter](https://twitter.com/bjoernmue)
